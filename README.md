@@ -297,7 +297,7 @@ From crispy spring rolls to sizzling stir-fries, Red Dragon Chinese Restaurant s
         </ul>
     </main>
     <footer>
-        <p>&copy; FRANKLIN.F (212224240041)</p>
+        <p>&copy; NIJANTH K (212224230186)</p>
     </footer>
 </body>
 </html>
